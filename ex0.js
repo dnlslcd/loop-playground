@@ -9,12 +9,12 @@
  *
  */
 
-let mes = 4;
+let mes = 7;
 
 // Escribir tu código a partir de aquí
 
 switch (mes) {
-    case 1:
+    case 0:
     case 2:
     case 3:
         mes = "Nos encontramos en el primer trimestre";
